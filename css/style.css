@@ -1,0 +1,39 @@
+@font-face {
+  font-family: AndaleMono;
+  src: url(Andale Mono.ttf);
+}
+
+h1{
+	text-align: center;
+	font-family: AndaleMono;
+	position: sticky;
+}
+
+img{
+	padding: 30px;
+	width: 200px;
+	height: 300px;
+}
+
+body{
+	background-color: darkgray;
+}
+
+.wrapper{
+	margin: auto;
+	height: 730px;
+	width: 1070px;
+	background-color: lightgray;
+}
+
+#pravata-vqra:hover{
+	content: url("../covers/starobulgarski.jpg");
+}
+
+#katalog{
+	display: block;
+}
+
+#katalog td{
+	display: inline-block;
+}
