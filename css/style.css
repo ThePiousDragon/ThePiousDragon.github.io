@@ -15,6 +15,10 @@ img{
 	height: 300px;
 }
 
+td:hover{
+	transform: scale(1.1);
+}
+
 body{
 	background-color: darkgray;
 }
@@ -27,7 +31,7 @@ body{
 }
 
 #pravata-vqra:hover{
-	content: url("../covers/starobulgarski.jpg");
+	content: url("../covers/488321.jpg");
 }
 
 #katalog{
@@ -36,4 +40,5 @@ body{
 
 #katalog td{
 	display: inline-block;
+	transition: transform .5s ease;
 }
