@@ -38,7 +38,7 @@ body{
 	display: block;
 }
 
-#katalog td{
+td{
 	display: inline-block;
 	transition: transform .5s ease;
 }
