@@ -3,42 +3,74 @@
   src: url(Andale Mono.ttf);
 }
 
-h1{
-	text-align: center;
-	font-family: AndaleMono;
-	position: sticky;
+h1 {
+  text-align: center;
+  font-family: AndaleMono;
+  position: sticky;
 }
 
-img{
-	padding: 30px;
-	width: 200px;
-	height: 300px;
+.wrapper {
+  margin: auto;
+  min-height: calc(100% - 40px); /* subtract the padding from the 100% height */
+  width: 1070px;
+  background-color: lightgray;
+  padding: 20px 0; /* add top and bottom padding */
 }
 
-td:hover{
-	transform: scale(1.1);
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 20px;
+  height: 100%; /* set the height to 100% to fill the wrapper element */
 }
 
-body{
-	background-color: darkgray;
+.grid-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 1200px) {
+  .wrapper {
+    max-width: 920px; /* reduce the maximum width */
+  }
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
-.wrapper{
-	margin: auto;
-	height: 730px;
-	width: 1070px;
-	background-color: lightgray;
+@media (max-width: 992px) {
+  .wrapper {
+    max-width: 720px; /* reduce the maximum width further */
+  }
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
-#pravata-vqra:hover{
-	content: url("../covers/488321.jpg");
+@media (max-width: 768px) {
+  .wrapper {
+    max-width: 520px; /* reduce the maximum width even further */
+  }
+  .grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 
-#katalog{
-	display: block;
+img {
+  width: 200px;
+  height: 300px;
+  transition: transform 0.5s ease;
 }
 
-td{
-	display: inline-block;
-	transition: transform .5s ease;
+img:hover {
+  transform: scale(1.1);
+}
+
+#pravata-vqra:hover {
+  content: url("../covers/488321.jpg");
+}
+
+body {
+  background-color: darkgray;
 }
