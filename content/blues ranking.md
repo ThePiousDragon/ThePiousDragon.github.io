@@ -544,7 +544,7 @@ On the whole, this is a solid selection of Jimmie’s best work, including most 
 
 ## 4. B.B. King — Live in Cook County Jail
 
-### Recorded:
+### Recorded: 1970
 
 ### Released: 1971 (ABC Records)
 
