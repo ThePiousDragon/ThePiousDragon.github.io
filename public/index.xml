@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>https://drakon.blog/</link>
+    <link>https://blonder.peeps_0p.gitlab.io/blog/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://drakon.blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://blonder.peeps_0p.gitlab.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The best blues albums</title>
-      <link>https://drakon.blog/blues-ranking/</link>
+      <link>https://blonder.peeps_0p.gitlab.io/blog/blues-ranking/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://drakon.blog/blues-ranking/</guid>
+      <guid>https://blonder.peeps_0p.gitlab.io/blog/blues-ranking/</guid>
       <description>A hundred years ago only blacks in the Deep South were seized by the blues. Now the whole world begins to know them.
 — Alan Lomax, The Land Where the Blues Began
 I am not sure if Lomax’s statement is intentionally ambiguous. He wrote it in the context of a world that is becoming increasingly anxious, and thus comes to know the blues. However, it is also true that blues music specifically is much more widely known today compared to a hundred years ago.</description>
