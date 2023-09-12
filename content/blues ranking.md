@@ -538,7 +538,7 @@ It might as well be a textbook example of a blues song snippet. Where Jimmy real
 
 Some of the cuts from his last recording session in 1933 are included as well, when he was overcome by tuberculosis to the point where he had to take breaks between each song. This is painfully obvious in the last track of the album, *Jimmie Rodgers’ Last Blue Yodel*, where he sounds almost completely depleted, but continues to sing about the things that matter to him most. 
 
-On the whole, this is a solid selection of Jimmie’s best work, including most of the best songs about the main themes in his work, missing home, women, and the blue life. A a good introduction to the blue yodeler and a legend of the blues—Jimmie Rodgers. 
+On the whole, this is a solid selection of Jimmie’s best work, including most of the best songs about the main themes in his work, missing home, women, and the blue life. A good introduction to the blue yodeler and a legend of the blues—Jimmie Rodgers. 
 
 ---
 
