@@ -591,7 +591,7 @@ The impact that these recordings have had on all music, not just the blues, is i
 
 ---
 
-## 2. Skip James — The Complete 1931 Session
+## 2. Skip James — The Complete 1931 Sessions
 
 ### Recorded: 1931
 
