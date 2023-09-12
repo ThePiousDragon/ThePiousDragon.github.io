@@ -563,7 +563,7 @@ A round of applause from the crowd, but this is just the beginning. Things reall
 > I gave you seven children  
 > And now you wanna give ’em back.  
 
-After this, B.B. King has the crowd completely enchanted. From that point on, he is the master puppeteer who is in complete control, of his playing, of his band, of the crowd. He tests his powers in a dialogue with the crowd in *Worry, Worry, Worry*. The results are outstanding—he is able to make everyone follow him unconsciously, able to make any given person say what B.B. King wants him to say. 
+With this, B.B. King has the crowd completely enchanted. From that point on, he is the master puppeteer who is in complete control, of his playing, of his band, of the crowd. He tests his powers in a dialogue with the crowd in *Worry, Worry, Worry*. The results are outstanding—he is able to make everyone follow him unconsciously, able to make any given person say what B.B. King wants him to say. 
 
 He uses that power to elevate the whole performance to a supernatural level. Little by little, track by track, the levels rise, way beyond the point of what natural music is capable of. This culminates in *The Thrill Is Gone*, where the king takes things to such an altitude that the people in the crowd must have felt short of breath. 
 
@@ -583,7 +583,7 @@ Typically, the discussion around B.B. King is whether *Live at the Regal* or *Li
 
 A truly unique character, Mississippi John Hurt’s music radiates the good nature and the kindness which made him beloved by all of his peers and which continues to be the thing that is most often associated with him. This album compiles his best cuts from the 1928 OKeh recordings, which have thankfully been much better preserved compared to some other records from that period. 
 
-Whether he is singing about hometown, praying to the Lord, or shooting his woman down, John Hurt maintains the same disarming honey-sweetness quality that makes you think that there is nothing with the world and that there never was. Even though I have put this album as the third best blues album, this is the one I would take with me to a desert island if I could only take one. 
+Whether he is singing about hometown, praying to the Lord, or shooting his woman down, John Hurt maintains the same disarming honey-sweetness quality that makes you think that there is nothing wrong with the world and that there never was. Even though I have put this album as the third best blues album, this is the one I would take with me to a desert island if I could only take one. 
 
 My personal favorites are the narrative songs (*Stack O’Lee Blues*, *Frankie*, *Spike Driver Blues*) because they evoke memories from an alternate life where Mississippi John Hurt is the world’s officially appointed storyteller and interpreter. In those songs, again, we hear the endearing simplicity revealed in the world which to another person’s eyes might seem awfully complicated. 
 
