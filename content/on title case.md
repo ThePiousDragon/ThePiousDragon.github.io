@@ -1,6 +1,6 @@
 +++
 title = "On title case"
-date = "2023-09-21"
+date = "2023-09-19"
 +++
 
 Natural language is full of rules, conventions, and idiosyncracies, which lend structure and predictability in the otherwise chaotic stream of expressed thoughts. This, in turn, makes communication between speakers easier, as each party more or less knows what to expect when it engages in a conversation. Thus, the utility of rules and conventions as a whole is evident—it is to facilitate communication. However, within any composite body, there are always individual elements that do not contribute to the overall purpose, and are, in a strict sense, useless, but are nevertheless carried along with the flow by their more productive relatives. Language is no different, and, as it develops, it naturally sheds overly contrived rules, unnecessarily complicated conventions, and outdated idiosyncracies.
