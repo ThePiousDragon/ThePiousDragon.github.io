@@ -3,6 +3,10 @@ title = "Sur le temps"
 date = "2023-09-20"
 +++
 
+> I cannot, and oh, if I be entering now into eternity, where there shall be no more distinction of hours, why is it all my business now to tell clocks?
+> 
+> — John Donne
+
 Dès que je me réveille, je me retrouve entouré par des montres, il y en a une accrochée au mur, son visage blanc, aiguilles noirs — immédiatement visible quelle que soit la luminosité — une autre sur l'écran de mon ordinateur qui est toujours allumé et bien sûr, celle de mon smartphone qui n'est jamais loin de moi, que je dorme ou non. Ainsi, chaque jour je sais l'heure avant même de savoir que je suis. 
 
 Pendant la journée, ces montres ne me quittent jamais. Elles sont dans ma poche, à mon poignet, je les vois dans les coins de l'appareil que j'utilise. En fait, la plupart des appareils ne peuvent pas fonctionner sans les montres. Il est impossible, par exemple, d'effacer l'horloge de mon téléphone. Je peux me débarrasser de tout le reste : les messages, l'internet, les réseaux sociaux, même les appels, mais non pas de l'horloge. Je n'ai pas le choix. En ce sens, mon téléphone n'est qu'une montre qui a, en plus, d'autres fonctions, comme les appels.
