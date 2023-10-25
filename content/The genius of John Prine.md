@@ -1,4 +1,7 @@
-# The genius of John Prine
++++
+title = "The genius of John Prine"
+date = "2023-10-25"
++++
 
 > Le génie, c'est l'enfance retrouvée à volonté.
 >
